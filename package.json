@@ -1,5 +1,5 @@
 {
-  "name": "@packy-tang/vue-tinymce",
+  "name": "rad-vue-tinymce",
   "version": "1.0.0",
   "description": "A simple vue-based tinymce component",
   "main": "dist/vue-tinymce.cjs.js",

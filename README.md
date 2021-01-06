@@ -19,9 +19,7 @@
 ### 安装组件
 
 ```sh
-yarn add @packy-tang/vue-tinymce
-# or
-npm install @packy-tang/vue-tinymce
+npm install rad-vue-tinymce
 ```
 
 ### 引入
